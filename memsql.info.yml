@@ -1,0 +1,4 @@
+name: MemSQL
+type: module
+description: 'Driver for MemSQL database'
+core_version_requirement: ^8 || ^9

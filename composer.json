@@ -1,0 +1,9 @@
+{
+  "name": "yenyasinn/memsql",
+  "description": "MemSQL driver for Drupal 8",
+  "autoload": {
+    "psr-4": {
+      "Drush\\": "src/Drush/"
+    }
+  }
+}
